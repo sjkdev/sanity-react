@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap');
+
+$dwa-dark: #111;
+$dwa-mid: #333;
+$dwa-light: #777;
+$dwa-white: #fff;
+$dwa-white-fade: rgba(255, 255, 255, 0.5);
+$dwa-clear: none;
+$dwa-main: #ED1C24;
+// $dwa-secondary: #FC006C;
+$dwa-secondary: #ff7000;
+$dwa-tertiary: #9900FA;
+$dwa-border-main: 5px solid $dwa-main;
+$dwa-border-secondary: 5px solid $dwa-secondary;
+$dwa-border-tertiary: 5px solid $dwa-tertiary;
+$dwa-main-font: 'Inter', sans-serif;
+
+body, html  {
+  overflow-x: hidden;
+}
+
+body, html, * {
+font-family: $dwa-main-font;
+}
+a {
+color: $dwa-dark;
+}
