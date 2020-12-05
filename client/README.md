@@ -1,4 +1,4 @@
-# React Babel Webpack Starter
+# React Sanity Babel Webpack Starter
 
 > Starter with nav and routing set up 
 
